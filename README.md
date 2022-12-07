@@ -16,3 +16,4 @@ Projects completed during Data Science course by Yandex.Practicum
 12 Прогнозирование заказов такси
 13 Проект для «Викишоп» (обработка текстов)
 14 Прогнозирование оттока клиентов (финальный проект)
+
